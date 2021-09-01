@@ -37,7 +37,7 @@ n_list_newdataset_edgar <- (list(
   France = 'FRA',
   Italy = 'ITA',
   Greece = 'GRC', 
-  Luxemburg = 'LUX',
+  Luxembourg = 'LUX',
   Norway = 'NOR',
   Portugal = 'PRT',
   Ireland = 'IRL',
